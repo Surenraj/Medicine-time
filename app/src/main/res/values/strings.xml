@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Medicine Alaram</string>
+    <string name="new_medicine">New Medicine</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="enter_medicine">Enter Medicine</string>
+    <string name="medicine_type">Medicine Type</string>
+    <string name="remainder_time">Remainder Time</string>
+    <string name="submit">Submit</string>
+</resources>
